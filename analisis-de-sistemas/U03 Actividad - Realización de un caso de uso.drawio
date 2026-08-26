@@ -18,16 +18,16 @@
         <mxCell id="gABlEeDYiUPVTbNScFgF-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=auto;labelBackgroundColor=default;gradientColor=none;shadow=0;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" value="Alumno" vertex="1">
           <mxGeometry height="130" width="80" x="50" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Ingresando al sistema" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno ingresando al sistema" vertex="1">
           <mxGeometry height="100" width="160" x="334" y="80" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-13" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" value="Sistema de inscripción" vertex="1">
-          <mxGeometry height="830" width="560" x="240" y="40" as="geometry" />
+          <mxGeometry height="730" width="560" x="240" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultando materias" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno consultando materias" vertex="1">
           <mxGeometry height="100" width="160" x="334" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Confirmando una materia" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno inscribiendo materia" vertex="1">
           <mxGeometry height="100" width="160" x="334" y="330" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Docente" vertex="1">
@@ -39,7 +39,7 @@
         <mxCell id="gABlEeDYiUPVTbNScFgF-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Validando correlativas" vertex="1">
           <mxGeometry height="100" width="160" x="630" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cambiando password" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno Cambiando password" vertex="1">
           <mxGeometry height="100" width="160" x="630" y="80" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-24" edge="1" parent="1" source="gABlEeDYiUPVTbNScFgF-22" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="gABlEeDYiUPVTbNScFgF-9" value="&amp;lt;&amp;lt;extiende&amp;gt;&amp;gt;">
@@ -73,7 +73,7 @@
             <mxPoint x="676" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cancelando inscripción" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno cancelando inscripción" vertex="1">
           <mxGeometry height="100" width="160" x="430" y="485" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-34" edge="1" parent="1" source="gABlEeDYiUPVTbNScFgF-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="gABlEeDYiUPVTbNScFgF-33">
@@ -82,7 +82,7 @@
             <mxPoint x="384" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultando materias inscriptas" vertex="1">
+        <mxCell id="gABlEeDYiUPVTbNScFgF-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumno consultando materias inscriptas" vertex="1">
           <mxGeometry height="100" width="160" x="260" y="535" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-36" edge="1" parent="1" source="gABlEeDYiUPVTbNScFgF-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="gABlEeDYiUPVTbNScFgF-35">
@@ -94,11 +94,11 @@
         <mxCell id="gABlEeDYiUPVTbNScFgF-40" edge="1" parent="1" source="gABlEeDYiUPVTbNScFgF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;startSize=17;endSize=14;" target="gABlEeDYiUPVTbNScFgF-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultando listado de alumnos" vertex="1">
-          <mxGeometry height="100" width="160" x="470" y="650" as="geometry" />
+        <mxCell id="gABlEeDYiUPVTbNScFgF-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Docente consultando listado de alumnos" vertex="1">
+          <mxGeometry height="100" width="160" x="470" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="gABlEeDYiUPVTbNScFgF-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cargando notas" vertex="1">
-          <mxGeometry height="100" width="160" x="270" y="750" as="geometry" />
+        <mxCell id="gABlEeDYiUPVTbNScFgF-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Docente cargando notas" vertex="1">
+          <mxGeometry height="100" width="160" x="290" y="670" as="geometry" />
         </mxCell>
         <mxCell id="gABlEeDYiUPVTbNScFgF-43" edge="1" parent="1" source="gABlEeDYiUPVTbNScFgF-18" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gABlEeDYiUPVTbNScFgF-41" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
