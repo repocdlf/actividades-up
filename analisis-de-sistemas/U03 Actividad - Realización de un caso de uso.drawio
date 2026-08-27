@@ -183,7 +183,7 @@
         <mxCell id="0FPHCC6-nrSSr41IQEDt-4" parent="0FPHCC6-nrSSr41IQEDt-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" value="Sistema de cajero automatico" vertex="1">
           <mxGeometry height="410" width="560" x="240" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="0FPHCC6-nrSSr41IQEDt-5" parent="0FPHCC6-nrSSr41IQEDt-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cajero abriendo cuenta bancaria" vertex="1">
+        <mxCell id="0FPHCC6-nrSSr41IQEDt-5" parent="0FPHCC6-nrSSr41IQEDt-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cliente retirando efectivo por cajero automático" vertex="1">
           <mxGeometry height="100" width="160" x="430" y="170" as="geometry" />
         </mxCell>
       </root>
