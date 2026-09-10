@@ -272,7 +272,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Cs8m3EUU7H3Y4NJ8FPgT" name="DA2">
+  <diagram id="Cs8m3EUU7H3Y4NJ8FPgT" name="DA6">
     <mxGraphModel dx="1201" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -490,7 +490,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3NNa_QU0JLxAWuO8qmGs" name="DA3">
+  <diagram id="3NNa_QU0JLxAWuO8qmGs" name="DA5">
     <mxGraphModel dx="1201" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -507,34 +507,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="El sistema genera el documento" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="170" as="geometry" />
+          <mxGeometry height="40" width="120" x="160" y="168" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--9" edge="1" parent="1" source="L76NHMynw4o-Kzf_05l--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;endArrow=open;endFill=0;" target="L76NHMynw4o-Kzf_05l--8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="El sistema genera un link de descarga" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="280" as="geometry" />
+          <mxGeometry height="40" width="120" x="160" y="256" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--11" edge="1" parent="1" source="L76NHMynw4o-Kzf_05l--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;endArrow=open;endFill=0;" target="L76NHMynw4o-Kzf_05l--10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="El sistema envia link de descarga" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="400" as="geometry" />
+          <mxGeometry height="40" width="120" x="160" y="345" as="geometry" />
         </mxCell>
         <mxCell id="oTN-LIFca5v_nR14hD0D-2" edge="1" parent="1" source="L76NHMynw4o-Kzf_05l--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;endArrow=open;endFill=0;" target="oTN-LIFca5v_nR14hD0D-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L76NHMynw4o-Kzf_05l--10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="El sistema envia link de descarga" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="520" as="geometry" />
+          <mxGeometry height="40" width="120" x="160" y="433" as="geometry" />
         </mxCell>
         <mxCell id="oTN-LIFca5v_nR14hD0D-4" edge="1" parent="1" source="oTN-LIFca5v_nR14hD0D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;endArrow=open;endFill=0;" target="oTN-LIFca5v_nR14hD0D-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oTN-LIFca5v_nR14hD0D-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="El sistema registra la exportacion" vertex="1">
-          <mxGeometry height="40" width="120" x="160" y="640" as="geometry" />
+          <mxGeometry height="40" width="120" x="160" y="521" as="geometry" />
         </mxCell>
         <mxCell id="oTN-LIFca5v_nR14hD0D-3" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="390" y="645" as="geometry" />
+          <mxGeometry height="30" width="30" x="500" y="526" as="geometry" />
         </mxCell>
         <mxCell id="oTN-LIFca5v_nR14hD0D-6" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="60" y="40" as="geometry" />
@@ -545,12 +545,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y-sQJWITbSqb0A2bfFNh-1" parent="1" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Exportacion de resultados de una encuesta" vertex="1">
-          <mxGeometry height="26" width="270" x="60" y="14" as="geometry" />
+          <mxGeometry height="26" width="270" x="320" y="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="G2g_JKKO6OaFsRqLtk2c" name="DA4">
+  <diagram id="G2g_JKKO6OaFsRqLtk2c" name="DA7">
     <mxGraphModel dx="1201" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
