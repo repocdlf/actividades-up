@@ -1194,7 +1194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nfBkPm4mALsMKDG6qpyt" name="DS_CU1">
-    <mxGraphModel dx="1516" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2174,7 +2174,7 @@
             <mxPoint x="14" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LT_-Ntt-JVKreX6b8Mci-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="frame" vertex="1">
+        <mxCell id="LT_-Ntt-JVKreX6b8Mci-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="Opt" vertex="1">
           <mxGeometry height="125" width="730" x="30" y="485" as="geometry" />
         </mxCell>
         <mxCell id="LT_-Ntt-JVKreX6b8Mci-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[para cada pregunta]" vertex="1">
